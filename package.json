@@ -14,7 +14,7 @@
         "get-title-at-url": "^1.1.8",
         "global": "^4.4.0",
         "http-proxy-middleware": "^1.0.3",
-        "lodash": "^4.17.15",
+        "lodash": "^4.17.19",
         "lodash.throttle": "^4.1.1",
         "now": "^17.1.1",
         "react": "^16.13.1",
